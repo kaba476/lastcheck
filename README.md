@@ -11,7 +11,7 @@ J’ai terminé le bootcamp Full Stack de Logiques franchement c’était intens
 - HTML / CSS
 - Git / GitHub
 - API REST
-- Déploiement (Azure)
+- Déploiement (vercel)
 
 ## Ce que ça m’a apporté
 - Rigueur
